@@ -1,3 +1,3 @@
 x=int(input("x: "))
-z=int(input("z: "))
-print(x+z)
+l=int(input("l: "))
+print(x+l)
